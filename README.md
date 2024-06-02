@@ -17,11 +17,11 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Cuong</h1>
 <h3 align="center">A passionate developer from VietNam</h3>
 
-- 🌱 I have experience working with **Angular, ReactJs, Vuejs, NestJs**
+- 🌱 I have experience working with **Angular, Java, ReactJs, Vuejs, NestJs**
 
 - 👨‍💻 All of my projects are available at [https://github.com/manhcuonguet](https://github.com/manhcuonguet)
 
-- 💬 Ask me about **JS, Angular, ReactJs, NestJs, MongoDB, MySQL, HTML5, CSS3**
+- 💬 Ask me about **JS, Angular, Java, ReactJs, NestJs, MongoDB, MySQL, PostgreSQL, HTML5, CSS3**
 
 - 📫 How to reach me **manhcuong9802@gmail.com**
 
